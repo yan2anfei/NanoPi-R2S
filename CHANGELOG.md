@@ -1,3 +1,13 @@
+## 20200509
+* 修正 Clash 二进制文件权限
+* 修正 luci-app-clash 在 menuconfig 的分类
+* 将 luci-app-openvpn 菜单项移至 vpn
+
+## 20200508
+* 集成 smartdns
+* 集成 luci-app-smartdns
+* Clash 更新到 0.20.0
+
 ## 20200418
 * 集成 luci-app-r2sflasher
 
